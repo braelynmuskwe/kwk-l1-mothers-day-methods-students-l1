@@ -5,3 +5,6 @@ end
 mothers_day
 
 def mothers_day("Carol")
+  puts"Hapy Mothers Day, Carol"
+end 
+mothers_day("Carol")
